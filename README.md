@@ -50,7 +50,6 @@ Provides clear error messages
 
 ❌ Doesn't work with imported types from typing module
 
-### Potential Improvements
 ## Add support for:
 
 typing module types (List, Dict, Union, etc.)
